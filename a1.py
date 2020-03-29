@@ -1,6 +1,4 @@
-#Name: Aairah Bari
-#Roll no: 2019003
-#Group: 3
+
 
 def bubblesort(array,size):
     for i in range(size-1):
